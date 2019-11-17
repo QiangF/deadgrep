@@ -117,3 +117,7 @@ Users must specify the glob and the search term as part of a raw
 `ag` or `ack`. This command also uses `compilation-mode`.
 
 **Great for**: Doing a text search using only built-in tools.
+
+## phi-grep
+No external dependency.
+(http://github.com/zk-phi/phi-grep)
